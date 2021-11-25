@@ -1,6 +1,6 @@
 # Library app implemented with microservice architecture 
 
-![image](https://user-images.githubusercontent.com/23582924/143494679-203b031c-6c1b-4a42-bcda-80dd1711d0f8.png)
+![image](https://user-images.githubusercontent.com/23582924/143494973-8134cdde-bd1e-47d3-92f5-80da6104636b.png)
 
 ## Services
 
